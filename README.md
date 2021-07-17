@@ -17,7 +17,7 @@ File Explorer section contains three file sections i.e., index.html, index.css a
 
 ![image](https://user-images.githubusercontent.com/46262629/126040434-7499f2b6-45ca-4d72-a35c-7e6f1c0591f2.png)
 
-The main content contains the editor of the file and the live preview section as asked for. Live preview section works with a bit of the delay to make the UI more appealing and comfortable to the eye. Also, these script file can also contain too much of variables which can result in the crashing of the preview section, I implemented a timeout section which will give enough time to live preview section to compile the code.
+The main content contains the editor of the file and the live preview section as asked for. Live preview section works without any delay which will help us to process each and every step carefully and help to resolve the issues.
 
 ![image](https://user-images.githubusercontent.com/46262629/126040673-cf221d78-6deb-4d79-9f52-fc3ad6893454.png)
 
