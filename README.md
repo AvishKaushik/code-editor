@@ -3,7 +3,7 @@
 Welcome to Code Editor! This is the code editor which will help to compile HTML, CSS and JavaScript and will also help us to preview the resultant website live and in action. This project was given to me by the company ***dyte*** as test for the hiring process. I hope you will enjoy seeing the things I built and created by using ReactJS.
 
 
-You can check this out by clicking on the given link : https://avishkaushik.github.io/code-editor
+You can check this out by clicking on the given link : 
 
 
 ## How does this works?
@@ -17,7 +17,7 @@ File Explorer section contains three file sections i.e., index.html, index.css a
 
 ![image](https://user-images.githubusercontent.com/46262629/126040434-7499f2b6-45ca-4d72-a35c-7e6f1c0591f2.png)
 
-The main content contains the editor of the file and the live preview section as asked for. Live preview section works without any of the delay to see the changes as soon as possible.
+The main content contains the editor of the file and the live preview section as asked for. Live preview section works with a bit of the delay to make the UI more appealing and comfortable to the eye. Also, these script file can also contain too much of variables which can result in the crashing of the preview section, I implemented a timeout section which will give enough time to live preview section to compile the code.
 
 ![image](https://user-images.githubusercontent.com/46262629/126040673-cf221d78-6deb-4d79-9f52-fc3ad6893454.png)
 
@@ -33,3 +33,4 @@ Material UI
 CodeMirror
 
 GitHub Pages
+
