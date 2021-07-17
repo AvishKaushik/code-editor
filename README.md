@@ -3,7 +3,7 @@
 Welcome to Code Editor! This is the code editor which will help to compile HTML, CSS and JavaScript and will also help us to preview the resultant website live and in action. This project was given to me by the company ***dyte*** as test for the hiring process. I hope you will enjoy seeing the things I built and created by using ReactJS.
 
 
-You can check this out by clicking on the given link : 
+You can check this out by clicking on the given link : https://avishkaushik.github.io/code-editor
 
 
 ## How does this works?
