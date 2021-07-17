@@ -1,0 +1,25 @@
+{
+  "short_name": "Code Editor",
+  "name": "Create a website using HTML, CSS and JavaScript. Anytime, anywhere.",
+  "icons": [
+    {
+      "src": "https://www.dyte.io/images/Dyte-Logo.svg",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "https://www.dyte.io/images/Dyte-Logo.svg",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://www.dyte.io/images/Dyte-Logo.svg",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
