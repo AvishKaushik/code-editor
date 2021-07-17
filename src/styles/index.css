@@ -1,0 +1,24 @@
+body {
+  height: 100%;
+}
+
+
+#app-bar {
+  background-color: #222222 !important;
+}
+
+#file-exp {
+  background: #222222 !important;
+}
+
+html {
+  background-color: #191919;
+}
+
+main {
+  background-color: #191919;
+}
+
+#JSIcon {
+  size: 20px;
+}
